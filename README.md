@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![CY's GitHub stats](https://github-readme-stats.vercel.app/api?username=evshary&show_icons=true)](https://github.com/evshary)
-[![CY's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=evshary&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=5&hide=html,css,javascript,assembly&exclude=cheat-sheet)](https://github.com/evshary)
+[![CY's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=evshary&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=5&hide=html,css,javascript&exclude_repo=cheat-sheet,arm-os-4fun)](https://github.com/evshary)
